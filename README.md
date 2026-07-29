@@ -28,6 +28,20 @@ This script is written in pure Python 3 and uses **only standard built-in librar
 ## 🚀 How to Run
 
 1. **Clone or download this repository to your local machine:**
-   ```bash
+```
    git clone [https://github.com/Y6THAY/python-port-scanner.git](https://github.com/Y6THAY/python-port-scanner.git)
    cd python-port-scanner
+```
+2. Run the script using Python 3:
+```
+  python3 scanner.py
+```
+
+3. Follow the interactive prompts in your terminal to specify your target IP address and port range (e.g., 1-1024)
+
+<br>
+
+# 📜 License & Copyright
+Copyright (c) 2026 Yannich Thay. All rights reserved.
+
+**Disclaimer:** This tool is intended for educational purposes, authorized security auditing, and network management only. Do not scan systems without explicit permission.

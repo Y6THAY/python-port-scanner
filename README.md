@@ -42,6 +42,6 @@ This script is written in pure Python 3 and uses **only standard built-in librar
 <br>
 
 # 📜 License & Copyright
-Copyright (c) 2026 Yannich Thay. All rights reserved.
+Copyright © 2026 Yannich Thay. All rights reserved.
 
 **Disclaimer:** This tool is intended for educational purposes, authorized security auditing, and network management only. Do not scan systems without explicit permission.

@@ -24,7 +24,7 @@ This script is written in pure Python 3 and uses **only standard built-in librar
 
 1. Clone or download this repository to your local machine:
 ```
-   git clone [https://github.com/Y6THAY/python-port-scanner.git](https://github.com/Y6THAY/python-port-scanner.git)
+   git clone https://github.com/Y6THAY/python-port-scanner.git
    cd python-port-scanner
 ```
 

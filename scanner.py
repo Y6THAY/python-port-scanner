@@ -89,7 +89,7 @@ ______      _   _                 _____
       
     """)
     print("\n****************************************************************")
-    print(f"\n* Copyright (c) {current_year} [Your Name]. All rights reserved.         *")
+    print(f"\n* Copyright © {current_year} [Your Name]. All rights reserved.         *")
     print("\n* Multi-Threaded TCP Port Scanner & Banner Grabber             *")
     print("\n****************************************************************")
 
